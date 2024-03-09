@@ -33,7 +33,7 @@ const Header = ({ back, isCartEmpty = false }) => {
       <TouchableOpacity
         style={{
           position: "absolute",
-          top: 10,
+          top: 50,
           right: 0,
         }}
         onPress={
