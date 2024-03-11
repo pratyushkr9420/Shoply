@@ -12,7 +12,7 @@ export const colors = {
   color3: "rgb(45,45,45)",
   color4: "transparent",
   color5: "#f2f2f2",
-  color6: "#f7f7f7",
+  color6: "#ebeff0",
 };
 
 export const defaultStyle = StyleSheet.create({
